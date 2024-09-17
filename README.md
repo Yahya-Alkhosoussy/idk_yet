@@ -35,3 +35,5 @@ it is starting out as a small bank app but it might evolve later idk yet tbh.
 **5. Verification File:**
 
     - Verifies the information with the text file information.
+
+***note: the text file available is a test text file and does not include real information.***
